@@ -42,3 +42,8 @@ node taskCli.js list
 node taskCli.js list done
 node taskCli.js list todo
 node taskCli.js list in-progress`
+
+### Contributing
+If you have suggestions or improvements, please feel free to submit a pull request or open an issue.
+
+
