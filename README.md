@@ -1,6 +1,10 @@
 # [Task Tracker CLI](https://github.com/DarshanParhyar/Task-Tracker)
 
 
+It's a [beginner-friendly](https://roadmap.sh/projects/task-tracker) project from the roamap.sh backend projects. 
+
+
+
 A simple command-line interface (CLI) application for tracking tasks with different statuses (`todo`, `in-progress`, `done`). 
 You can add, update, delete, and manage tasks using this CLI.
 
