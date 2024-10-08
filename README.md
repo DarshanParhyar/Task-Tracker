@@ -1,7 +1,11 @@
-# Task Tracker CLI
+# [Task Tracker CLI](https://github.com/DarshanParhyar/Task-Tracker)
 
-A simple command-line interface (CLI) application for tracking tasks with different statuses (todo, in-progress, done). 
+
+A simple command-line interface (CLI) application for tracking tasks with different statuses (`todo`, `in-progress`, `done`). 
 You can add, update, delete, and manage tasks using this CLI.
+
+## Project URL
+[Task Tracker CLI GitHub Repository](https://github.com/DarshanParhyar/Task-Tracker)
 
 ## Features
 #### Add a new task
@@ -18,6 +22,7 @@ Getting Started
 ##### Installation
 Clone the repository:
 `https://github.com/DarshanParhyar/Task-Tracker.git`
+`cd Task-Tracker`
 
 Install the required Node.js packages (if any, for now, no additional packages are required):
 `npm install`
